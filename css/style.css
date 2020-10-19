@@ -15,7 +15,7 @@ body {
 	margin: 10vh auto ;
 	text-align: center;
 	height: 100px;
-
+    max-width: 80%;
 }
 .meter { 
 	margin: 0 auto;
