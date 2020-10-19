@@ -10,7 +10,13 @@ body {
 	font-size: 14px;
 	text-align: center;
 }
-.txt{margin: 60vh auto  0;}
+.txt{margin: 0 auto ;}
+.logo{
+	margin: 10vh auto ;
+	text-align: center;
+	height: 100px;
+
+}
 .meter { 
 	margin: 0 auto;
 	width: 80%;
