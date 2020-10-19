@@ -53,6 +53,9 @@ a, a:hover{
 	color: #ff6e14;
 	text-decoration: none;
 }
+h1{
+	color: white;
+}
 @media (max-width: 800px) {
 	body {
 	background:url(../images/mobile.jpg);
